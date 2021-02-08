@@ -2,4 +2,4 @@
 
 Common nodejs backend utilities to eliminate redundant boilerplate
 
-Database utilities only compatible with `mysql`
+Includes database utilities compatible with [`mysqljs`](https://github.com/mysqljs/mysql)
